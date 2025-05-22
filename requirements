@@ -1,0 +1,9 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+drf-spectacular
+celery
+redis
+openpyxl
+ruff
+python-dotenv
