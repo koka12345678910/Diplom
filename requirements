@@ -7,3 +7,9 @@ redis
 openpyxl
 ruff
 python-dotenv
+djangorestframework-simplejwt
+Pillow
+celery
+redis
+requests
+aiogram
